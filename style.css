@@ -32,6 +32,7 @@ body{
     background-color: var(--White);
     padding: 15px;
     border-radius: 15px;
+    box-shadow: 0 0 30px var(--Dark-blue);
 }
 
 .card__qrcode-container{
